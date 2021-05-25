@@ -1,0 +1,26 @@
+/* mat-icon style */
+.example-spacer {
+    flex: 1 1 auto;
+  }
+/* Footer style */
+  footer {
+    text-align: center;
+    padding: 1em;
+    color: black;
+    bottom: 0;
+    position: fixed; 
+    width: 100%;
+    background-color: cadetblue;
+  }
+  /* img style */
+  img{
+      margin-left: -15px !important;
+  }
+  /* link style */
+  a{
+      text-decoration: none;
+  }
+  /* header style */
+  .card-header {
+    padding: 0 !important;
+ }
